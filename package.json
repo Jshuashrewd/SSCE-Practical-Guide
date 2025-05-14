@@ -1,0 +1,24 @@
+{
+  "name": "student-guide-website",
+  "version": "1.0.0",
+  "description": "A website to guide students in preparing for their practical subjects SSCE (WAEC) exams.",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "education",
+    "students",
+    "exams",
+    "SSCE",
+    "WAEC"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
